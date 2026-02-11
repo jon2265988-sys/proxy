@@ -1,4 +1,4 @@
-name = "streaming-proxy2"
+name = "proxy"
 main = "worker.js"
 compatibility_date = "2024-01-01"
 
@@ -16,3 +16,4 @@ zone_id = ""
 
 # Usage model
 usage_model = "bundled"
+
